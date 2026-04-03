@@ -1,0 +1,6 @@
+.git
+.github
+*.md
+*.xlsx
+.gitignore
+.dockerignore
