@@ -1,14 +1,19 @@
+# syntax=docker/dockerfile:1
 # ──────────────────────────────────────────────────────────────
 # Moneta Report Generator - Docker Distribution
 # No source code included. Installs from private GitHub repo.
+# Token is injected via BuildKit secret mount - never stored in
+# any image layer and produces no lint warnings.
 # ──────────────────────────────────────────────────────────────
 FROM python:3.12-slim AS builder
 
-ARG GITHUB_TOKEN
 ENV PIP_NO_CACHE_DIR=1
 
-RUN pip install --upgrade pip && \
-    pip install "moneta-report-generator @ git+https://${GITHUB_TOKEN}@github.com/poornimaramakrishnan/moneta-report-generator.git@main"
+# The secret is mounted at /run/secrets/github_token for the
+# duration of this single RUN step only - not cached, not logged.
+RUN --mount=type=secret,id=github_token \
+    pip install --upgrade pip && \
+    pip install "moneta-report-generator @ git+https://$(cat /run/secrets/github_token)@github.com/poornimaramakrishnan/moneta-report-generator.git@main"
 
 # ── runtime stage (no token in final image) ──────────────────
 FROM python:3.12-slim
