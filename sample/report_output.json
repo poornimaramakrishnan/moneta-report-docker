@@ -1,0 +1,2590 @@
+{
+  "eod": {
+    "Detailed": [
+      {
+        "Account Holder": "BUMI BERKAH HIJAU",
+        "Bank": "bri",
+        "Account Number": "008401003679309",
+        "Data": [
+          {
+            "Month": "OCT_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33657370.8
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 33657370.8,
+                  "Debit, business": 7883.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 6916.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "31": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              }
+            ]
+          },
+          {
+            "Month": "NOV_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 33656403.8
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 33656403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 7245000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901403.8
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 40901403.8,
+                  "Debit, business": 8138.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 8188.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              }
+            ]
+          },
+          {
+            "Month": "DEC_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 40901453.8
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 40901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 4000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44901453.8
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 44901453.8,
+                  "Debit, business": 8307.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 9035.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              },
+              {
+                "31": {
+                  "Beginning Balance": 44902181.8,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 44902181.8
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Account Holder": "BUMI BERKAH HIJAU",
+        "Bank": "mandiri",
+        "Account Number": "1010013337777",
+        "Data": [
+          {
+            "Month": "OCT_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198564668.51
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 198564668.51,
+                  "Debit, business": 187300000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 187000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 213120000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 213120000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198264668.51
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 198264668.51,
+                  "Debit, business": 191040960.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 191000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198223708.51
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 198223708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198223708.51
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 198223708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198223708.51
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 198223708.51,
+                  "Debit, business": 261104000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 261000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198119708.51
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 198119708.51,
+                  "Debit, business": 427777800.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 428000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198341908.51
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 198341908.51,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198341908.51
+                }
+              },
+              {
+                "31": {
+                  "Beginning Balance": 198341908.51,
+                  "Debit, business": 25480.57,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 2402.87,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 198318830.81
+                }
+              }
+            ]
+          },
+          {
+            "Month": "NOV_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 211318830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 211318830.81
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 211318830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 211318830.81
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 211318830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 211318830.81
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 211318830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 200000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 411318830.81
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 411318830.81,
+                  "Debit, business": 177600000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 233718830.81
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 233718830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 200000000.0,
+                  "Credit, business": 200000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 233718830.81
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 233718830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 187000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 420718830.81
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 420718830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 420718830.81
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 420718830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 420718830.81
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 420718830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 420718830.81
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 420718830.81,
+                  "Debit, business": 187300000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 233418830.81
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 233418830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 233418830.81
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 233418830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 233418830.81
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 233418830.81,
+                  "Debit, business": 518655000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 500000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 214763830.81
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 214763830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 214763830.81
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 214763830.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 214763830.81
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 214763830.81,
+                  "Debit, business": 374005620.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 375000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 215758210.81
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 215758210.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 215758210.81
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 215758210.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 215758210.81
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 215758210.81,
+                  "Debit, business": 191040960.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 192000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216717250.81
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 216717250.81,
+                  "Debit, business": 213120000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 213000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216597250.81
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 216597250.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216597250.81
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 216597250.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216597250.81
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 216597250.81,
+                  "Debit, business": 261104000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 261000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216493250.81
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 216493250.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216493250.81
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 216493250.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216493250.81
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 216493250.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 216493250.81
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 216493250.81,
+                  "Debit, business": 427777800.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 430000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 218715450.81
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 218715450.81,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 218715450.81
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 218715450.81,
+                  "Debit, business": 28657.82,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 182891.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 218869683.99
+                }
+              }
+            ]
+          },
+          {
+            "Month": "DEC_2025",
+            "Daily": [
+              {
+                "1": {
+                  "Beginning Balance": 268705082.09,
+                  "Debit, business": 518655000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 520000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270050082.09
+                }
+              },
+              {
+                "2": {
+                  "Beginning Balance": 270050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270050082.09
+                }
+              },
+              {
+                "3": {
+                  "Beginning Balance": 270050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 8000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "4": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "5": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 300000000.0,
+                  "Credit, business": 300000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "6": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "7": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "8": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 278050082.09
+                }
+              },
+              {
+                "9": {
+                  "Beginning Balance": 278050082.09,
+                  "Debit, business": 187844475.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 191300000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "10": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "11": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "12": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "13": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "14": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "15": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "16": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "17": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "18": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "19": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "20": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "21": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "22": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 404160960.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 404160960.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 281505607.09
+                }
+              },
+              {
+                "23": {
+                  "Beginning Balance": 281505607.09,
+                  "Debit, business": 261104000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 250000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "24": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 850000000.0,
+                  "Credit, business": 850000000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "25": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "26": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "27": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "28": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 0.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 0.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 270401607.09
+                }
+              },
+              {
+                "29": {
+                  "Beginning Balance": 270401607.09,
+                  "Debit, business": 635074740.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 637296940.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 272623807.09
+                }
+              },
+              {
+                "30": {
+                  "Beginning Balance": 272623807.09,
+                  "Debit, business": 518655000.0,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 518655000.0,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 272623807.09
+                }
+              },
+              {
+                "31": {
+                  "Beginning Balance": 272623807.09,
+                  "Debit, business": 26150.32,
+                  "Debit, non-business": 0.0,
+                  "Credit, business": 5751.61,
+                  "Credit, non-business": 0.0,
+                  "Ending Balance": 272603408.38
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Report": [
+      {
+        "Account Identity": "BUMI BERKAH HIJAU \u2014 bri",
+        "Data": "       Month  Day  ...  Credit, non-business  Ending Balance\n0   OCT_2025    1  ...                   0.0      33657370.8\n1   OCT_2025    2  ...                   0.0      33657370.8\n2   OCT_2025    3  ...                   0.0      33657370.8\n3   OCT_2025    4  ...                   0.0      33657370.8\n4   OCT_2025    5  ...                   0.0      33657370.8\n..       ...  ...  ...                   ...             ...\n87  DEC_2025   27  ...                   0.0      44902181.8\n88  DEC_2025   28  ...                   0.0      44902181.8\n89  DEC_2025   29  ...                   0.0      44902181.8\n90  DEC_2025   30  ...                   0.0      44902181.8\n91  DEC_2025   31  ...                   0.0      44902181.8\n\n[92 rows x 8 columns]"
+      },
+      {
+        "Account Identity": "BUMI BERKAH HIJAU \u2014 mandiri",
+        "Data": "       Month  Day  ...  Credit, non-business  Ending Balance\n0   OCT_2025    1  ...                   0.0    1.985647e+08\n1   OCT_2025    2  ...                   0.0    1.985647e+08\n2   OCT_2025    3  ...                   0.0    1.985647e+08\n3   OCT_2025    4  ...                   0.0    1.985647e+08\n4   OCT_2025    5  ...                   0.0    1.985647e+08\n..       ...  ...  ...                   ...             ...\n87  DEC_2025   27  ...                   0.0    2.704016e+08\n88  DEC_2025   28  ...                   0.0    2.704016e+08\n89  DEC_2025   29  ...                   0.0    2.726238e+08\n90  DEC_2025   30  ...                   0.0    2.726238e+08\n91  DEC_2025   31  ...                   0.0    2.726034e+08\n\n[92 rows x 8 columns]"
+      }
+    ],
+    "Combined": "    Day/Month      OCT_2025      NOV_2025      DEC_2025\n0           1  2.322220e+08  2.449752e+08  3.109515e+08\n1           2  2.322220e+08  2.449752e+08  3.109515e+08\n2           3  2.322220e+08  2.449752e+08  3.229515e+08\n3           4  2.322220e+08  4.449752e+08  3.229515e+08\n4           5  2.322220e+08  2.746202e+08  3.229515e+08\n5           6  2.322220e+08  2.746202e+08  3.229515e+08\n6           7  2.322220e+08  4.616202e+08  3.229515e+08\n7           8  2.322220e+08  4.616202e+08  3.229515e+08\n8           9  2.319220e+08  4.616202e+08  3.264071e+08\n9          10  2.319220e+08  4.616202e+08  3.264071e+08\n10         11  2.319220e+08  2.743202e+08  3.264071e+08\n11         12  2.319220e+08  2.743202e+08  3.264071e+08\n12         13  2.319220e+08  2.743202e+08  3.264071e+08\n13         14  2.319220e+08  2.556652e+08  3.264071e+08\n14         15  2.319220e+08  2.556652e+08  3.264071e+08\n15         16  2.319220e+08  2.556652e+08  3.264071e+08\n16         17  2.319220e+08  2.566596e+08  3.264071e+08\n17         18  2.319220e+08  2.566596e+08  3.264071e+08\n18         19  2.319220e+08  2.566596e+08  3.264071e+08\n19         20  2.318811e+08  2.576187e+08  3.264071e+08\n20         21  2.318811e+08  2.574987e+08  3.264071e+08\n21         22  2.318811e+08  2.574987e+08  3.264071e+08\n22         23  2.317771e+08  2.574987e+08  3.153031e+08\n23         24  2.317771e+08  2.573947e+08  3.153031e+08\n24         25  2.317761e+08  2.573947e+08  3.153038e+08\n25         26  2.317761e+08  2.573947e+08  3.153038e+08\n26         27  2.317761e+08  2.573947e+08  3.153038e+08\n27         28  2.317761e+08  2.596169e+08  3.153038e+08\n28         29  2.319983e+08  2.596169e+08  3.175260e+08\n29         30  2.319983e+08  2.597711e+08  3.175260e+08\n30         31  2.319752e+08  0.000000e+00  3.175056e+08"
+  },
+  "liquidity": {
+    "Liquidity Health Metrics": "Month                      OCT_2025      NOV_2025      DEC_2025\nAvg EoD Balance        2.319740e+08  2.924752e+08  3.217319e+08\nAvg EoD MoM (%)        0.000000e+00  2.608000e+01  1.000000e+01\nDays EoD < 12,916,666  0.000000e+00  0.000000e+00  0.000000e+00\nVolatility             1.615722e+05  7.589496e+07  5.318336e+06",
+    "Runway and Stress Capacity": "Month              OCT_2025  NOV_2025  DEC_2025\nRunway (Days)        2473.0       3.9      57.8\nSurvivability (%)     100.0     100.0     100.0",
+    "Monitoring Alerts": "Month                 OCT_2025  NOV_2025  DEC_2025\nLow Balance Breach       False     False     False\nVolatility Jump          False      True     False\nRunway Deterioration     False     False     False"
+  },
+  "transaction_summary": {
+    "Transaction Summary": "Category                Category      OCT_2025      NOV_2025      DEC_2025\n0                  Total Credits  1.280129e+09  2.565436e+09  3.683428e+09\n1                   Total Debits  1.280376e+09  2.550640e+09  3.675529e+09\n2         Total Business Credits  1.280129e+09  2.565436e+09  3.683428e+09\n3          Total Business Debits  1.280376e+09  2.350640e+09  2.525529e+09\n4              Avg Daily Balance  2.319740e+08  2.924752e+08  3.217319e+08\n5                Min EOD Balance  2.317761e+08  2.449752e+08  3.109515e+08",
+    "Non-Business Transaction": "   No                      Category  Total Credit   Total Debit\n0   1  Cash Withdrawal Non-Business           0.0  1.350000e+09",
+    "Business Transaction": "   No                        Category  Total Credit   Total Debit\n0   1  Banking Administration Charges  0.000000e+00  7.500000e+04\n1   2       Freight/Trucking/Shipping  0.000000e+00  1.873000e+08\n2   3                 Interest Income  2.151845e+05  0.000000e+00\n3   4         Loan Disbursement, Loan  4.000000e+06  0.000000e+00\n4   5                      Taxes, VAT  0.000000e+00  5.288710e+03\n5   6            Transfer in, Revenue  7.524778e+09  0.000000e+00\n6   7              Transfer out, COGS  0.000000e+00  5.969140e+09\n7   8              Transfer out, OPEX  0.000000e+00  2.432800e+04"
+  },
+  "pl_from_transactions": {
+    "actual": {
+      "COGS": {
+        "Transfer out, COGS": 5969140315.0
+      },
+      "Interest Income": {
+        "Interest Income": 215184.47999999998
+      },
+      "OPEX": {
+        "Banking Administration Charges": 75000.0,
+        "Freight/Trucking/Shipping": 187300000.0,
+        "Taxes, VAT": 5288.71,
+        "Transfer out, OPEX": 24328.0
+      },
+      "Revenue": {
+        "Transfer in, Revenue": 7524777900.0
+      }
+    },
+    "annualized": {
+      "COGS": {
+        "Transfer out, COGS": 23876561260.0
+      },
+      "Interest Income": {
+        "Interest Income": 860737.9199999999
+      },
+      "OPEX": {
+        "Banking Administration Charges": 300000.0,
+        "Freight/Trucking/Shipping": 749200000.0,
+        "Taxes, VAT": 21154.84,
+        "Transfer out, OPEX": 97312.0
+      },
+      "Revenue": {
+        "Transfer in, Revenue": 30099111600.0
+      }
+    }
+  },
+  "pl_forecast": "                        Item      DEC_2025  ...      MAY_2026      JUN_2026\n0              Total Revenue  3.679413e+09  ...  4.899971e+10  8.449475e+10\n1  Cost of Goods Sold (COGS)  2.525494e+09  ...  4.029920e+10  6.998914e+10\n2               Gross Profit  1.153919e+09  ...  8.700516e+09  1.450560e+10\n3         Operating Expenses  3.445732e+04  ...  2.384995e+09  4.145888e+09\n4           Operating Profit  1.153884e+09  ...  6.315521e+09  1.035972e+10\n5            Interest Income  1.478661e+04  ...  1.416468e+06  2.368972e+06\n6           Interest Expense  0.000000e+00  ...  0.000000e+00  0.000000e+00\n7        Profit before taxes  1.153899e+09  ...  6.316938e+09  1.036208e+10\n8                      Taxes  1.839706e+07  ...  2.449986e+08  4.224737e+08\n9                 Net Profit  1.135502e+09  ...  6.071939e+09  9.939611e+09\n\n[10 rows x 8 columns]",
+  "balance_sheet": "                    Item    2025-12-31\n0                   Cash  3.175056e+08\n1    Account Receivables  2.575589e+09\n2              Inventory  3.030593e+09\n3         Current Assets  5.923688e+09\n4           Fixed Assets  2.454325e+09\n5    Current Liabilities  1.060005e+10\n6  Long-Term Liabilities  2.257755e+10\n7           Total Assets  8.378013e+09\n8      Total Liabilities  3.317760e+10",
+  "metrics": "                 Metric  ...                                       Text Formula\n0      Gross Margin (%)  ...              Gross Margin = Gross Profit / Revenue\n1  Operating Margin (%)  ...      Operating Margin = Operating Profit / Revenue\n2        Net Margin (%)  ...                  Net Margin = Net Profit / Revenue\n3         Current Ratio  ...  Current Ratio = Current Assets / Current Liabi...\n4            Cash Ratio  ...            Cash Ratio = Cash / Current Liabilities\n5           Quick Ratio  ...  Quick Ratio = (Current Assets - Inventory) / C...\n\n[6 rows x 4 columns]",
+  "dscr_dbr": "      Month  ...  Debt Burden Ratio (DS / Net Profit)\n0  DEC_2025  ...                                1.33x\n1  JAN_2026  ...                                2.15x\n2  FEB_2026  ...                                1.15x\n3  MAR_2026  ...                                0.69x\n4  APR_2026  ...                                0.44x\n5  MAY_2026  ...                                0.25x\n6  JUN_2026  ...                                0.15x\n\n[7 rows x 6 columns]",
+  "account_summary": "                      Item          Account 1          Account 2\n0                Bank Name                BRI            MANDIRI\n1           Account Number    008401003679309      1010013337777\n2             Account Type     Saving Account     Saving Account\n3                 Currency                IDR                IDR\n4      Account Holder Name  BUMI BERKAH HIJAU  BUMI BERKAH HIJAU\n5   Account Holder Address                                      \n6  Statement Period - From         2025-10-01         2025-10-01\n7    Statement Period - To         2025-12-31         2025-12-31\n8           Months Skipped                  -                  -\n9           Statement Type      e-pdf/scanned      e-pdf/scanned",
+  "fraud": {
+    "fraud_data": "                                 Identified Fraud  ...              Description (For developer reference)\n0                        Running Balance Mismatch  ...  This is to capture if there is any running bal...\n1                         Manipulated Transaction  ...                              Skip for Release 1.0.\n2                              Equal Credit Debit  ...  Total amount of credit is exactly same as the ...\n3                            Negative EOD Balance  ...  This indicator only applicable for retail use ...\n4                      Suspicious Bank eStatement  ...  Check metadata information of the bank stateme...\n5         Immediate big debit after Salary credit  ...  Withdrawal of a large amount of money shortly ...\n6         Cash deposit higher than maximum salary  ...  If the cash deposit is found and the amount is...\n7                      Irregular Interest Charges  ...  Interest charges are generally deducted every ...\n8                        Irregular Salary Credits  ...  For retail usecase, the salary must be credite...\n9                       Round figure Tax Payments  ...  Tax paid amounts are usually not round figures...\n10                      Irregular EMI Transaction  ...  The monthly loan installment usually has a fix...\n11                               Low Transactions  ...  Aggregate weekly (Mon-Fri). If week activity <...\n12        More frequent Cash Deposits than Salary  ...  Cash deposit with amount equal or higher than ...\n13        Credit followed only by cash withdrawal  ...  Same day withdrawal > 50% of credit and > 1M r...\n14  Immediate cash withdrawals after cash deposit  ...  Same day withdrawal >= 80% of deposited amount...\n15     Parties present in both debits and credits  ...          Skip \u2014 requires Named Entity Recognition.\n16       Cash Deposits greater than twice the AMB  ...  Flag when total cash deposits in a month excee...\n17                      Chq Withdrawal On Holiday  ...  Cheque withdrawal on weekends is not possible ...\n18       Mismatch in summary vs calculated values  ...  Mismatch between parsed totals and calculated ...\n19         Debit transactions to employer is seen  ...  Skip \u2014 requires Named Entity Recognition or Em...\n\n[20 rows x 13 columns]",
+    "fraud_probability": 0.2888283379,
+    "cases": {
+      "Running Balance Mismatch": [
+        {
+          "number": 0,
+          "date": "2025-10-25 00:00:00",
+          "amount": 6916.0,
+          "description": "Interest on Account",
+          "balance_before": 33657370.8,
+          "transaction_amount": 6916.0,
+          "parsed_balance_after": 336642868.0,
+          "calculated_balance_after": 33664286.8
+        },
+        {
+          "number": 1,
+          "date": "2025-10-25 00:00:00",
+          "amount": -6500.0,
+          "description": "Monthly Fee ATM",
+          "balance_before": 336642868.0,
+          "transaction_amount": -6500.0,
+          "parsed_balance_after": 336577868.0,
+          "calculated_balance_after": 336636368.0
+        },
+        {
+          "number": 2,
+          "date": "2025-10-25 00:00:00",
+          "amount": -1383.0,
+          "description": "Tax",
+          "balance_before": 336577868.0,
+          "transaction_amount": -1383.0,
+          "parsed_balance_after": 336564038.0,
+          "calculated_balance_after": 336576485.0
+        },
+        {
+          "number": 3,
+          "date": "2025-11-05 00:00:00",
+          "amount": 7245000.0,
+          "description": "ESCROW 5 PSRN AN ANGGIE PRAYOGA",
+          "balance_before": 33656403.8,
+          "transaction_amount": 7245000.0,
+          "parsed_balance_after": 409014038.0,
+          "calculated_balance_after": 40901403.8
+        },
+        {
+          "number": 4,
+          "date": "2025-11-25 00:00:00",
+          "amount": 8188.0,
+          "description": "Interest on Account",
+          "balance_before": 409014038.0,
+          "transaction_amount": 8188.0,
+          "parsed_balance_after": 409095918.0,
+          "calculated_balance_after": 409022226.0
+        },
+        {
+          "number": 5,
+          "date": "2025-11-25 00:00:00",
+          "amount": -6500.0,
+          "description": "Monthly Fee ATM",
+          "balance_before": 409095918.0,
+          "transaction_amount": -6500.0,
+          "parsed_balance_after": 409030918.0,
+          "calculated_balance_after": 409089418.0
+        },
+        {
+          "number": 6,
+          "date": "2025-11-25 00:00:00",
+          "amount": -1638.0,
+          "description": "Tax",
+          "balance_before": 409030918.0,
+          "transaction_amount": -1638.0,
+          "parsed_balance_after": 409014538.0,
+          "calculated_balance_after": 409029280.0
+        },
+        {
+          "number": 7,
+          "date": "2025-12-03 00:00:00",
+          "amount": 4000000.0,
+          "description": "2532913AAI052801021493507SBUMRIZKI AGUST",
+          "balance_before": 40901453.8,
+          "transaction_amount": 4000000.0,
+          "parsed_balance_after": 449014538.0,
+          "calculated_balance_after": 44901453.8
+        },
+        {
+          "number": 8,
+          "date": "2025-12-25 00:00:00",
+          "amount": 9035.0,
+          "description": "Interest on Account",
+          "balance_before": 449014538.0,
+          "transaction_amount": 9035.0,
+          "parsed_balance_after": 449104888.0,
+          "calculated_balance_after": 449023573.0
+        },
+        {
+          "number": 9,
+          "date": "2025-12-25 00:00:00",
+          "amount": -6500.0,
+          "description": "Monthly Fee ATM",
+          "balance_before": 449104888.0,
+          "transaction_amount": -6500.0,
+          "parsed_balance_after": 449039888.0,
+          "calculated_balance_after": 449098388.0
+        },
+        {
+          "number": 10,
+          "date": "2025-12-25 00:00:00",
+          "amount": -1807.0,
+          "description": "Tax",
+          "balance_before": 449039888.0,
+          "transaction_amount": -1807.0,
+          "parsed_balance_after": 449021818.0,
+          "calculated_balance_after": 449038081.0
+        },
+        {
+          "number": 11,
+          "date": "2025-10-09 00:00:00",
+          "amount": 187000000.0,
+          "description": "20251009CENAIDJA010O017 9938631 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102",
+          "balance_before": 198564668.51,
+          "transaction_amount": 187000000.0,
+          "parsed_balance_after": 198564668.51,
+          "calculated_balance_after": 385564668.51
+        },
+        {
+          "number": 26,
+          "date": "2025-11-04 00:00:00",
+          "amount": 200000000.0,
+          "description": "20251104CENAIDJA010O014 6235666 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102",
+          "balance_before": 211318830.81,
+          "transaction_amount": 200000000.0,
+          "parsed_balance_after": 211318830.81,
+          "calculated_balance_after": 411318830.81
+        },
+        {
+          "number": 37,
+          "date": "2025-11-17 00:00:00",
+          "amount": 125000000.0,
+          "description": "9382929 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102",
+          "balance_before": 14763830.81,
+          "transaction_amount": 125000000.0,
+          "parsed_balance_after": 389763830.81,
+          "calculated_balance_after": 139763830.81
+        },
+        {
+          "number": 36,
+          "date": "2025-11-17 00:00:00",
+          "amount": 250000000.0,
+          "description": "9382645 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 20251117CENAIDJA010O012",
+          "balance_before": 15758210.81,
+          "transaction_amount": 250000000.0,
+          "parsed_balance_after": 264763830.81,
+          "calculated_balance_after": 265758210.81
+        },
+        {
+          "number": 39,
+          "date": "2025-11-20 00:00:00",
+          "amount": 192000000.0,
+          "description": "20251120CENAIDJA010O014 7924320 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102",
+          "balance_before": 264763830.81,
+          "transaction_amount": 192000000.0,
+          "parsed_balance_after": 207758210.81,
+          "calculated_balance_after": 456763830.81
+        },
+        {
+          "number": 50,
+          "date": "2025-11-30 00:00:00",
+          "amount": 182891.0,
+          "description": "Bunga 10124",
+          "balance_before": 18715450.81,
+          "transaction_amount": 182891.0,
+          "parsed_balance_after": 18708739.91,
+          "calculated_balance_after": 18898341.81
+        },
+        {
+          "number": 49,
+          "date": "2025-11-30 00:00:00",
+          "amount": -25000.0,
+          "description": "Biaya Adm 10124",
+          "balance_before": 18708739.91,
+          "transaction_amount": -25000.0,
+          "parsed_balance_after": 18690450.81,
+          "calculated_balance_after": 18683739.91
+        },
+        {
+          "number": 51,
+          "date": "2025-11-30 00:00:00",
+          "amount": -3657.82,
+          "description": "Pajak 10124",
+          "balance_before": 18690450.81,
+          "transaction_amount": -3657.82,
+          "parsed_balance_after": 18705082.09,
+          "calculated_balance_after": 18686792.99
+        },
+        {
+          "number": 52,
+          "date": "2025-12-01 00:00:00",
+          "amount": 250000000.0,
+          "description": "20251201CENAIDJA010O012 3156009 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 20251201CENAIDJA010O012",
+          "balance_before": 268705082.09,
+          "transaction_amount": 250000000.0,
+          "parsed_balance_after": 268705082.09,
+          "calculated_balance_after": 518705082.09
+        },
+        {
+          "number": 61,
+          "date": "2025-12-05 00:00:00",
+          "amount": -300000000.0,
+          "description": "CK 855014-IY 855014 - KHOIRUL UMAM Tarik Tunai 00855014 12602 20251209CENAIDJA010O017",
+          "balance_before": 28050082.09,
+          "transaction_amount": -300000000.0,
+          "parsed_balance_after": 28050082.09,
+          "calculated_balance_after": -271949917.91
+        },
+        {
+          "number": 60,
+          "date": "2025-12-05 00:00:00",
+          "amount": 100000000.0,
+          "description": "2602593 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102",
+          "balance_before": 28050082.09,
+          "transaction_amount": 100000000.0,
+          "parsed_balance_after": 328050082.09,
+          "calculated_balance_after": 128050082.09
+        },
+        {
+          "number": 59,
+          "date": "2025-12-05 00:00:00",
+          "amount": 200000000.0,
+          "description": "2602243 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 20251205CENAIDJA010O015",
+          "balance_before": 328050082.09,
+          "transaction_amount": 200000000.0,
+          "parsed_balance_after": 228050082.09,
+          "calculated_balance_after": 528050082.09
+        },
+        {
+          "number": 62,
+          "date": "2025-12-09 00:00:00",
+          "amount": 187300000.0,
+          "description": "8093989 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 UANG SUBSIDI/WIDYA",
+          "balance_before": 228050082.09,
+          "transaction_amount": 187300000.0,
+          "parsed_balance_after": 215350082.09,
+          "calculated_balance_after": 415350082.09000003
+        },
+        {
+          "number": 70,
+          "date": "2025-12-23 00:00:00",
+          "amount": -261104000.0,
+          "description": "BG 817365-BBH Transfer 10817365 10225",
+          "balance_before": 31505607.09,
+          "transaction_amount": -261104000.0,
+          "parsed_balance_after": 20401607.09,
+          "calculated_balance_after": -229598392.91
+        },
+        {
+          "number": 69,
+          "date": "2025-12-23 00:00:00",
+          "amount": 250000000.0,
+          "description": "1180358 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102",
+          "balance_before": 20401607.09,
+          "transaction_amount": 250000000.0,
+          "parsed_balance_after": 281505607.09,
+          "calculated_balance_after": 270401607.09
+        },
+        {
+          "number": 71,
+          "date": "2025-12-24 00:00:00",
+          "amount": 250000000.0,
+          "description": "20251224CENAIDJA010O017 7571003 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102",
+          "balance_before": 281505607.09,
+          "transaction_amount": 250000000.0,
+          "parsed_balance_after": 270401607.09,
+          "calculated_balance_after": 531505607.09
+        },
+        {
+          "number": 81,
+          "date": "2025-12-29 00:00:00",
+          "amount": -427777800.0,
+          "description": "CK 722289- PEMINDAHBUKUAN Transfer 00722289 15709 20251230CENAIDJA010O011",
+          "balance_before": 220401607.09,
+          "transaction_amount": -427777800.0,
+          "parsed_balance_after": 22623807.09,
+          "calculated_balance_after": -207376192.91
+        },
+        {
+          "number": 80,
+          "date": "2025-12-29 00:00:00",
+          "amount": 230000000.0,
+          "description": "0757255 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102",
+          "balance_before": 22623807.09,
+          "transaction_amount": 230000000.0,
+          "parsed_balance_after": 450401607.09,
+          "calculated_balance_after": 252623807.09
+        },
+        {
+          "number": 78,
+          "date": "2025-12-29 00:00:00",
+          "amount": -207296940.0,
+          "description": "BG 624181-PEMBAYARAN PART Transfer 10624181 KE MAULINDO MANDIRI 03107 20251229CENAIDJA010O011",
+          "balance_before": 450401607.09,
+          "transaction_amount": -207296940.0,
+          "parsed_balance_after": 20401607.09,
+          "calculated_balance_after": 243104667.08999997
+        },
+        {
+          "number": 82,
+          "date": "2025-12-30 00:00:00",
+          "amount": 250000000.0,
+          "description": "6721721 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 20251230CENAIDJA010O011",
+          "balance_before": 227698547.09,
+          "transaction_amount": 250000000.0,
+          "parsed_balance_after": 272623807.09,
+          "calculated_balance_after": 477698547.09000003
+        },
+        {
+          "number": 88,
+          "date": "2025-12-31 00:00:00",
+          "amount": 5751.61,
+          "description": "Bunga 10124",
+          "balance_before": 22623807.09,
+          "transaction_amount": 5751.61,
+          "parsed_balance_after": 226045587.0,
+          "calculated_balance_after": 22629558.7
+        },
+        {
+          "number": 87,
+          "date": "2025-12-31 00:00:00",
+          "amount": -25000.0,
+          "description": "Biaya Adm 10124",
+          "balance_before": 226045587.0,
+          "transaction_amount": -25000.0,
+          "parsed_balance_after": 22598807.09,
+          "calculated_balance_after": 226020587.0
+        },
+        {
+          "number": 89,
+          "date": "2025-12-31 00:00:00",
+          "amount": -1150.32,
+          "description": "Pajak 10124",
+          "balance_before": 22598807.09,
+          "transaction_amount": -1150.32,
+          "parsed_balance_after": 22603408.38,
+          "calculated_balance_after": 22597656.77
+        }
+      ],
+      "Manipulated Transaction": [],
+      "Equal Credit Debit": [],
+      "Negative EOD Balance": [],
+      "Suspicious Bank eStatement": [
+        {
+          "month": "OCT_2025",
+          "bank": "bri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "008401003679309",
+          "author": "unknown",
+          "content creator": "Microsoft Reporting Services 13.0.0.0",
+          "encoding_software": "Microsoft Reporting Services PDF Rendering Extension 13.0.0.0",
+          "created at": "2025-11-04 11:09:01",
+          "modified at": "unknown",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "NOV_2025",
+          "bank": "bri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "008401003679309",
+          "author": "unknown",
+          "content creator": "Microsoft Reporting Services 13.0.0.0",
+          "encoding_software": "Microsoft Reporting Services PDF Rendering Extension 13.0.0.0",
+          "created at": "2025-12-08 09:37:39",
+          "modified at": "unknown",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "DEC_2025",
+          "bank": "bri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "008401003679309",
+          "author": "unknown",
+          "content creator": "Microsoft Reporting Services 13.0.0.0",
+          "encoding_software": "Microsoft Reporting Services PDF Rendering Extension 13.0.0.0",
+          "created at": "2026-01-07 14:59:31",
+          "modified at": "unknown",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "OCT_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2025-11-04 10:02:30",
+          "modified at": "2025-11-04 10:03:58",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "OCT_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2025-11-04 10:02:30",
+          "modified at": "2025-11-04 10:03:58",
+          "suspicious reason": "Modified after created"
+        },
+        {
+          "month": "NOV_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2025-12-01 10:59:53",
+          "modified at": "2025-12-01 11:01:42",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "NOV_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2025-12-01 10:59:53",
+          "modified at": "2025-12-01 11:01:42",
+          "suspicious reason": "Modified after created"
+        },
+        {
+          "month": "DEC_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2026-01-02 10:02:04",
+          "modified at": "2026-01-02 10:04:00",
+          "suspicious reason": "Generic author/content creator"
+        },
+        {
+          "month": "DEC_2025",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "author": "unknown",
+          "content creator": "JasperReports Library version 5.6.0",
+          "encoding_software": "iText 2.1.7 by 1T3XT",
+          "created at": "2026-01-02 10:02:04",
+          "modified at": "2026-01-02 10:04:00",
+          "suspicious reason": "Modified after created"
+        }
+      ],
+      "Immediate big debit after Salary credit": [],
+      "Cash deposit higher than maximum salary": [],
+      "Irregular Interest Charges": [],
+      "Irregular Salary Credits": [],
+      "Round figure Tax Payments": [],
+      "Irregular EMI Transaction": [],
+      "Low Transactions": [],
+      "More frequent Cash Deposits than Salary": [],
+      "Credit followed only by cash withdrawal": [
+        {
+          "date": "2025-11-06",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 200000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "1151772 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102"
+          },
+          "cash withdrawal": {
+            "amount": 200000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 869100-JA 869100 KHOIRUL UMAM Tarik Tunai 00869100 12602 20251107CENAIDJA010O016"
+          }
+        },
+        {
+          "date": "2025-12-05",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 200000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "2602243 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102 20251205CENAIDJA010O015"
+          },
+          "cash withdrawal": {
+            "amount": 300000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855014-IY 855014 - KHOIRUL UMAM Tarik Tunai 00855014 12602 20251209CENAIDJA010O017"
+          }
+        },
+        {
+          "date": "2025-12-05",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 100000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "2602593 CENAIDJA/WAHYU MURTI GARUDA KE PT 028877711299102"
+          },
+          "cash withdrawal": {
+            "amount": 300000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855014-IY 855014 - KHOIRUL UMAM Tarik Tunai 00855014 12602 20251209CENAIDJA010O017"
+          }
+        },
+        {
+          "date": "2025-12-24",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 250000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "20251224CENAIDJA010O017 7571003 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102"
+          },
+          "cash withdrawal": {
+            "amount": 850000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855016-BAYU IY855016 Tarik Tunai 00855016 10124"
+          }
+        },
+        {
+          "date": "2025-12-24",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 250000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "20251224CENAIDJA010O017 7571323 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102"
+          },
+          "cash withdrawal": {
+            "amount": 850000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855016-BAYU IY855016 Tarik Tunai 00855016 10124"
+          }
+        },
+        {
+          "date": "2025-12-24",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 250000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "20251224CENAIDJA010O017 7586018 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102"
+          },
+          "cash withdrawal": {
+            "amount": 850000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855016-BAYU IY855016 Tarik Tunai 00855016 10124"
+          }
+        },
+        {
+          "date": "2025-12-24",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "credit": {
+            "amount": 100000000.0,
+            "category": "Transfer in, Revenue",
+            "description": "20251224CENAIDJA010O017 7604200 CENAIDJA/BUMI BERKAH HIJAU PT 336022223299102"
+          },
+          "cash withdrawal": {
+            "amount": 850000000.0,
+            "category": "Cash Withdrawal Non-Business",
+            "description": "CK 855016-BAYU IY855016 Tarik Tunai 00855016 10124"
+          }
+        }
+      ],
+      "Immediate cash withdrawals after cash deposit": [],
+      "Parties present in both debits and credits": [],
+      "Cash Deposits greater than twice the AMB": [],
+      "Chq Withdrawal On Holiday": [],
+      "Mismatch in summary vs calculated values": [
+        {
+          "date": "2025-10-31",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "parsed beginning balance": 198564668.51,
+          "parsed total debit": 1280368240.57,
+          "calculated total debit": 1280368240.57,
+          "parsed total credit": 1280122402.87,
+          "calculated total credit": 1280122402.87,
+          "parsed end balance": 11318830.81,
+          "calculated end balance": 198318830.80999994,
+          "Found Mismatches": [
+            "ending_balance != beginning_balance + credit - debit"
+          ]
+        },
+        {
+          "date": "2025-11-30",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "parsed beginning balance": 211318830.81,
+          "parsed total debit": 2550632037.82,
+          "calculated total debit": 2550632037.82,
+          "parsed total credit": 2558018289.1,
+          "calculated total credit": 2558018289.1,
+          "parsed end balance": 18705082.09,
+          "calculated end balance": 218705082.08999968,
+          "Found Mismatches": [
+            "ending_balance != beginning_balance + credit - debit"
+          ]
+        },
+        {
+          "date": "2025-12-31",
+          "bank": "mandiri",
+          "account holder": "BUMI BERKAH HIJAU",
+          "account number": "1010013337777",
+          "parsed beginning balance": 268705082.09,
+          "parsed total debit": 3675520325.32,
+          "calculated total debit": 3675520325.32,
+          "parsed total credit": 3679418651.61,
+          "calculated total credit": 3679418651.61,
+          "parsed end balance": 22603408.38,
+          "calculated end balance": 272603408.3800001,
+          "Found Mismatches": [
+            "ending_balance != beginning_balance + credit - debit"
+          ]
+        }
+      ],
+      "Debit transactions to employer is seen": []
+    }
+  }
+}
