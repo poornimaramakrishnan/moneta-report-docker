@@ -7,7 +7,13 @@
 # ──────────────────────────────────────────────────────────────
 FROM python:3.12-slim AS builder
 
-ENV PIP_NO_CACHE_DIR=1
+ENV PIP_NO_CACHE_DIR=1 \
+    DEBIAN_FRONTEND=noninteractive
+
+# Install git (required by pip to clone from GitHub) then clean up apt cache
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends git && \
+    rm -rf /var/lib/apt/lists/*
 
 # The secret is mounted at /run/secrets/github_token for the
 # duration of this single RUN step only - not cached, not logged.
