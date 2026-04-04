@@ -1,9 +1,9 @@
 # Moneta Report Generator — Docker Distribution
 
-Professional Excel financial report generator packaged as a Docker image.  
+Professional Excel financial report generator packaged as a Docker image.
 Installs from **[PyPI](https://pypi.org/project/moneta-report-generator/)** — no tokens or credentials required.
 
----
+> **Current package version: `1.0.2`**---
 
 ## Quick Start
 
@@ -66,9 +66,12 @@ The generated Excel workbook contains 12 professionally formatted tabs:
 ## Design System
 
 - **Purple / Gold** brand palette with Montserrat typography
-- Traffic-light cells (green / amber / red) for KPIs
-- Print-friendly A4 landscape layout on every tab
-- Frozen header rows and navigation bar across all sheets
+- **Native Excel Tables** (ListObjects) on every data tab — auto-filter, banded rows, no phantom blank columns
+- **Native Icon-Set Conditional Formatting** on DSCR & DBR columns (3-traffic-light icons)
+- Accounting-style negative numbers in red parentheses `(1,234)`
+- Hierarchical navigation bar: Home → Prev → Next → Top across all tabs
+- Print-friendly A4 landscape layout with repeating title rows
+- Frozen header rows on all sheets
 
 ---
 
