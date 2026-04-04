@@ -10,15 +10,27 @@ private `moneta-report-generator` package at build time.
 
 ### 1. Build the image
 
-A GitHub personal-access token with `repo` scope to the private source
-repository is required at build time only. It is **not** baked into the
-final image (multi-stage build).
+A GitHub personal-access token (PAT) with `repo` scope to the private
+source repository is required **at build time only**. It is injected via
+a BuildKit secret mount and **never stored in any image layer**.
 
 ```bash
-docker build \
-  --build-arg GITHUB_TOKEN=<your-token> \
+# Write your GitHub PAT to a temp file
+echo "<your-github-pat>" > /tmp/gh_token
+
+# Build with BuildKit secret (token never baked into the image)
+DOCKER_BUILDKIT=1 docker build \
+  --secret id=github_token,src=/tmp/gh_token \
   -t moneta-report:latest .
+
+# Clean up
+rm /tmp/gh_token
 ```
+
+> **Don't have a token?** Ask the repo owner to add you as a collaborator
+> on `poornimaramakrishnan/moneta-report-generator`, then create a
+> [Personal Access Token](https://github.com/settings/tokens) with
+> `repo` scope.
 
 ### 2. Generate a report
 
@@ -75,7 +87,7 @@ The generated Excel workbook contains 12 professionally formatted tabs:
 
 ## Design System
 
-- **Navy / Gold** brand palette with consistent typography
+- **Purple / Gold** brand palette with Montserrat typography
 - Traffic-light cells (green / amber / red) for KPIs
 - Print-friendly A4 landscape layout on every tab
 - Frozen header rows and navigation bar across all sheets
