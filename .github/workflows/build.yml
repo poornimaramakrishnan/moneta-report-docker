@@ -9,7 +9,6 @@ on:
 
 env:
   IMAGE_NAME: moneta-report-generator
-  DOCKER_BUILDKIT: "1"
 
 jobs:
   build-docker:
@@ -19,14 +18,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build Docker image
-        env:
-          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
-        run: |
-          echo "$SOURCE_REPO_TOKEN" > /tmp/gh_token
-          DOCKER_BUILDKIT=1 docker build \
-            --secret id=github_token,src=/tmp/gh_token \
-            -t ${{ env.IMAGE_NAME }}:latest .
-          rm -f /tmp/gh_token
+        run: docker build -t ${{ env.IMAGE_NAME }}:latest .
 
       - name: Verify image
         run: docker run ${{ env.IMAGE_NAME }}:latest --help
@@ -39,14 +31,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build Docker image
-        env:
-          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
-        run: |
-          echo "$SOURCE_REPO_TOKEN" > /tmp/gh_token
-          DOCKER_BUILDKIT=1 docker build \
-            --secret id=github_token,src=/tmp/gh_token \
-            -t ${{ env.IMAGE_NAME }}:latest .
-          rm -f /tmp/gh_token
+        run: docker build -t ${{ env.IMAGE_NAME }}:latest .
 
       - name: Generate report from sample data
         run: |

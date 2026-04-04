@@ -1,8 +1,7 @@
 # Moneta Report Generator — Docker Distribution
 
 Professional Excel financial report generator packaged as a Docker image.  
-**No source code is included in this repository.** The Docker build pulls the
-private `moneta-report-generator` package at build time.
+Installs from **[PyPI](https://pypi.org/project/moneta-report-generator/)** — no tokens or credentials required.
 
 ---
 
@@ -10,27 +9,9 @@ private `moneta-report-generator` package at build time.
 
 ### 1. Build the image
 
-A GitHub personal-access token (PAT) with `repo` scope to the private
-source repository is required **at build time only**. It is injected via
-a BuildKit secret mount and **never stored in any image layer**.
-
 ```bash
-# Write your GitHub PAT to a temp file
-echo "<your-github-pat>" > /tmp/gh_token
-
-# Build with BuildKit secret (token never baked into the image)
-DOCKER_BUILDKIT=1 docker build \
-  --secret id=github_token,src=/tmp/gh_token \
-  -t moneta-report:latest .
-
-# Clean up
-rm /tmp/gh_token
+docker build -t moneta-report:latest .
 ```
-
-> **Don't have a token?** Ask the repo owner to add you as a collaborator
-> on `poornimaramakrishnan/moneta-report-generator`, then create a
-> [Personal Access Token](https://github.com/settings/tokens) with
-> `repo` scope.
 
 ### 2. Generate a report
 
@@ -54,15 +35,12 @@ on every push to `main`:
 
 | Step | Description |
 |------|-------------|
-| **Build** | Builds the Docker image using the `SOURCE_REPO_TOKEN` secret |
+| **Build** | Builds the Docker image (no secrets needed — installs from PyPI) |
 | **Verify** | Runs `--help` to confirm the image is valid |
 | **Generate** | Produces `MonetaReport.xlsx` from sample data (if present) |
 | **Artifact** | Uploads the generated report as a downloadable artifact |
 
-### Required Secret
-
-Add `SOURCE_REPO_TOKEN` in **Settings → Secrets → Actions** with a GitHub
-PAT that has read access to `poornimaramakrishnan/moneta-report-generator`.
+No repository secrets are required.
 
 ---
 
