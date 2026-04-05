@@ -3,7 +3,7 @@
 Professional Excel financial report generator packaged as a Docker image.
 Installs from **[PyPI](https://pypi.org/project/moneta-report-generator/)** — no tokens or credentials required.
 
-> **Current package version: `1.0.2`**---
+> **Current package version: `1.0.4`**---
 
 ## Quick Start
 
@@ -65,13 +65,16 @@ The generated Excel workbook contains 12 professionally formatted tabs:
 
 ## Design System
 
-- **Purple / Gold** brand palette with Montserrat typography
-- **Native Excel Tables** (ListObjects) on every data tab — auto-filter, banded rows, no phantom blank columns
-- **Native Icon-Set Conditional Formatting** on DSCR & DBR columns (3-traffic-light icons)
+- **Purple / Gold** brand palette with standard Excel-native **Aptos** typography
+- **Frozen Header Bars (Rows 1-2)** on all tabs with Sheet Title, Company Name, Period, and Last Updated date
+- **Native Excel Tables** (ListObjects) on every data tab — auto-filter, banded rows, drop-downs enabled
+- **Automated Sheet Protection** — Worksheets locked against accidental edits while preserving sort/filter functionality
+- **Native Icon-Set Conditional Formatting** on DSCR (Red/Yellow/Green indicators)
+- Accurate Appendix Thresholds on Liquidity, Fraud, and Margins with cell-level traffic lights
 - Accounting-style negative numbers in red parentheses `(1,234)`
-- Hierarchical navigation bar: Home → Prev → Next → Top across all tabs
-- Print-friendly A4 landscape layout with repeating title rows
-- Frozen header rows on all sheets
+- Hierarchical navigation bar (Row 3): Home → Prev → Next → Top
+- Print-friendly A4 landscape layout with repeating title rows (1:4)
+
 
 ---
 
