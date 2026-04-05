@@ -9,7 +9,7 @@ ENV PIP_NO_CACHE_DIR=1 \
     DEBIAN_FRONTEND=noninteractive
 
 RUN pip install --upgrade pip && \
-    pip install "moneta-report-generator==1.0.2"
+    pip install "moneta-report-generator==1.0.3"
 
 # ── runtime stage ─────────────────────────────────────────────
 FROM python:3.12-slim
